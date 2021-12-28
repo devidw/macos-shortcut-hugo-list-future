@@ -1,0 +1,7 @@
+= macOS Shortcut to visually list your upcoming Hugo Blog Posts (`hugo list future`)
+
+This repository includes the styles of the macOS shortcut to list your future Hugo posts.
+
+[source]
+----
+----
