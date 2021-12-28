@@ -9,6 +9,7 @@ This repository includes the styles for the macOS Shortcut to visually list your
 | image:./images/light.png[]
 |===
 
+== CDN Links
 [source]
 ----
 https://gitcdn.link/cdn/devidw/macos-shortcut-hugo-list-future/master/style.min.css
