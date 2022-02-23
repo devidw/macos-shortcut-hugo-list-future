@@ -1,6 +1,6 @@
 = macOS shortcut styles for «Upcoming Hugo Blog Posts»
 
-This repository includes the styles for the macOS Shortcut to visually list your upcoming Hugo Blog Posts
+This repository includes the styles for the https://david.wolf.gdn/macos-shortcut-to-visually-list-your-upcoming-hugo-blog-posts-hugo-list-future/[macOS Shortcut to visually list your upcoming Hugo Blog Posts].
 
 |===
 | Dark Theme | Light Theme
